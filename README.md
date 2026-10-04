@@ -1,90 +1,140 @@
 # Hi, I'm Aditya 👋
 
-### CSE Student | AI & ML Enthusiast | Developer
+### CSE Student | AI/ML Enthusiast | Developer
 
-I'm a **Computer Science & Engineering student specializing in Artificial Intelligence & Machine Learning**,
-    passionate about building practical solutions and continuously improving my development skills.
+I'm a Computer Science & Engineering student specializing in **Artificial Intelligence & Machine Learning**, interested in building practical solutions and continuously improving my technical skills.
 
-* 🎓 CSE — AI & ML
-* 💻 Currently learning **Web Development, Backend Development & Databases**
-* 🤖 Exploring **Artificial Intelligence & Machine Learning**
-* 🌱 Improving my skills in **C, Python, MySQL, Git & GitHub**
-* 🚀 Building real-world projects and participating in **hackathons**
-* 📚 Always learning, building, and experimenting
+* 🎓 **B.Tech CSE — AI & ML**
+* 💻 Exploring **Web & Backend Development**
+* 🗄️ Working with **MySQL & Database Design**
+* 🤖 Exploring **AI & Machine Learning**
+* 💻 Practicing **C, Python & Data Structures**
+* 🚀 Building real-world projects and participating in hackathons
+* 📚 Learning → Building → Improving
 
 ---
 
 ## 🛠️ Tech Stack
 
-### Languages
+### 💻 Languages
 
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge\&logo=c\&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
+<p>
+  <img src="https://skillicons.dev/icons?i=c,python,js,html,css" />
+</p>
 
-### Database
+### 🌐 Web & Backend
 
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge\&logo=mysql\&logoColor=white)
+<p>
+  <img src="https://skillicons.dev/icons?i=react,nodejs,express" />
+</p>
 
-### Tools & Platforms
+### 🗄️ Database
 
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge\&logo=visual-studio-code\&logoColor=white)
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql" />
+</p>
+
+### 🔧 Tools & Platforms
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode" />
+</p>
 
 ---
 
-🚀 Featured Projects
+## 🚀 Featured Projects
 
-🌾 Agricare — Farmer Procurement Management System
+### 🏠 Shelter Management System
+
+**DRDO Problem Statement | Currently in Development**
+
+A technology-driven solution developed in response to a **DRDO problem statement**, focused on efficient shelter management and centralized information handling.
+
+**Currently working on:**
+
+* 🗄️ Database design & MySQL
+* 🔗 Backend & API development
+* 📊 Management and record tracking
+* 💻 User-focused system design
+
+> Building a practical technology solution to address a real-world problem.
+
+---
+
+### 🌾 Agricare — Farmer Procurement Management System
 
 A platform designed to help farmers reduce waiting times and uncertainty at procurement centres.
 
-Key features:
-👨‍🌾 Farmer registration
-📅 Procurement slot booking
-🔄 Real-time queue management
-📱 Notifications and updates
-📦 Procurement status tracking
-💰 Payment status tracking
+**Key Features:**
 
-Built as part of our journey toward solving real-world problems through technology.
+* 👨‍🌾 Farmer registration
+* 📅 Procurement slot booking
+* 🔄 Real-time queue management
+* 📱 Notifications and updates
+* 📦 Procurement status tracking
+* 💰 Payment status tracking
+
+> Built as part of our journey toward solving real-world problems through technology.
 
 ---
 
-📌 Currently Working On
+### 💻 Linked List Programs in C
 
-🏠 Shelter Management System — DRDO Project
+A collection of implementations covering fundamental linked-list data structures in C.
 
-Currently in Development:
-A project developed in response to a DRDO problem statement, focused on building a technology-driven 
-solution for efficient shelter management and centralized information handling.
+**Implemented:**
 
-Key features:
-🗄️ Database design & MySQL
-🔗 Backend & API development
-📊 Management and record tracking
-💻 User-focused system design
+* 🔹 Singly Linked List
+* 🔹 Doubly Linked List
+* 🔹 Circular Linked List
+* 🔹 Insertion & deletion operations
+* 🔹 Traversal and display operations
 
-Working on a real-world problem statement with a focus on building a practical and scalable technology solution.
+🔗 **[View Repository →](https://github.com/ByteCraft0/Linked_list_in_C)**
+
+---
+
+## 📌 Currently Working On
+
+* 🏠 **Shelter Management System — DRDO Problem Statement**
+* 🗄️ **Database Design & MySQL**
+* 🔗 **Backend & API Development**
+* 💻 **Data Structures & Algorithms**
+* 🤖 **AI & ML Fundamentals**
 
 ---
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ByteCraft0\&show_icons=true\&theme=tokyonight)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ByteCraft0&show_icons=true&hide_border=true&rank_icon=github" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ByteCraft0&layout=compact&hide_border=true" height="170"/>
+</p>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ByteCraft0\&layout=compact\&theme=tokyonight)
+---
+
+## 🔥 Contribution Streak
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=ByteCraft0&hide_border=true" />
+</p>
 
 ---
 
 ## 🤝 Connect With Me
 
-* 💼 LinkedIn: [Aditya Singh](https://www.linkedin.com/in/aditya-singh-11b93b3b1/)
-* 📸 Instagram: [@thakur_adityar1](https://www.instagram.com/thakur_adityar1/)
-* 🐙 GitHub: [@ByteCraft0](https://github.com/ByteCraft0)
+<p align="left">
+  <a href="https://www.linkedin.com/in/aditya-singh-11b93b3b1/?isSelfProfile=true">
+    <img src="https://skillicons.dev/icons?i=linkedin" width="45" />
+  </a>
+    
+  <a href="https://github.com/ByteCraft0">
+    <img src="https://skillicons.dev/icons?i=github" width="45" />
+  </a>
+</p>
 
 ---
 
-### 💡 "Build. Learn. Improve. Repeat."
+### 💡 Build. Learn. Improve. Repeat.
 
 Thanks for visiting my profile! ⭐
