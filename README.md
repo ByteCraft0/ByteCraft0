@@ -33,33 +33,39 @@ I'm a **Computer Science & Engineering student specializing in Artificial Intell
 
 ---
 
-## 🚀 Featured Project
+🚀 Featured Projects
 
-### 🌾 Agricare — Farmer Procurement Management System
+🌾 Agricare — Farmer Procurement Management System
 
 A platform designed to help farmers reduce waiting times and uncertainty at procurement centres.
 
-**Key features:**
+Key features:
+👨‍🌾 Farmer registration
+📅 Procurement slot booking
+🔄 Real-time queue management
+📱 Notifications and updates
+📦 Procurement status tracking
+💰 Payment status tracking
 
-* 👨‍🌾 Farmer registration
-* 📅 Procurement slot booking
-* 🔄 Real-time queue management
-* 📱 Notifications and updates
-* 📦 Procurement status tracking
-* 💰 Payment status tracking
-
-> Built as part of our journey toward solving real-world problems through technology.
+Built as part of our journey toward solving real-world problems through technology.
 
 ---
 
-## 📌 Currently Working On
+📌 Currently Working On
 
-* 🌾 **Agricare / Farmer Procurement Management System**
-* 🗄️ Database design and **MySQL**
-* 🔗 Backend & API development
-* 🐍 Python programming
-* 💻 Data Structures & Algorithms
-* 🤖 AI & ML fundamentals
+🏠 Shelter Management System — DRDO Project
+
+Currently in Development:
+A project developed in response to a DRDO problem statement, focused on building a technology-driven 
+solution for efficient shelter management and centralized information handling.
+
+Key features:
+🗄️ Database design & MySQL
+🔗 Backend & API development
+📊 Management and record tracking
+💻 User-focused system design
+
+Working on a real-world problem statement with a focus on building a practical and scalable technology solution.
 
 ---
 
